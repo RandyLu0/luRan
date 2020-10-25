@@ -21,7 +21,7 @@ int main(){
     }
     squared *= squared;
 
-    printf("%d",squared - squares);
+    //printf("%d\n",squared - squares);
     
     return 0;
 }
